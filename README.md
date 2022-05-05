@@ -10,11 +10,11 @@ If an egg breaks when dropped, then it would break if dropped from a higher floo
 If an egg survives a fall then it would survive a shorter fall <br>
 
 ### Three approaches to solve this problem:
-Recursive<br>
-Dynamic Programming<br>
-Binomial Coefficients With Binary Search<br>
+1. Recursive<br>
+2. Dynamic Programming<br>
+2. Binomial Coefficients With Binary Search<br>
 
 ## Applications
-Minimizing cache misses when retrieving data from the cache<br>
-Performing a large number of queries on a database<br>
-Avoiding a call to the HDD which is slower<br>
+* Minimizing cache misses when retrieving data from the cache<br>
+* Performing a large number of queries on a database<br>
+* Avoiding a call to the HDD which is slower<br>
