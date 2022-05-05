@@ -19,3 +19,8 @@ You are given n eggs and a building with k floors. Dropping an egg from a floor 
 * Minimizing cache misses when retrieving data from the cache<br>
 * Performing a large number of queries on a database<br>
 * Avoiding a call to the HDD which is slower<br>
+
+##### &#128101; Group Members
+Aliza Saleem Lakhani <br>
+Hafsa Irfan <br>
+Shayan Shariff <br>
